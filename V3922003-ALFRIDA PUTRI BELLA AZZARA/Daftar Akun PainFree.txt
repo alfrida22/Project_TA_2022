@@ -1,0 +1,9 @@
+Daftar Akun 
+
+Admin
+email : Admin@gmail.com
+password : 123456
+
+Pengguna 
+email : Azzara@gmail.com
+password : 123456
